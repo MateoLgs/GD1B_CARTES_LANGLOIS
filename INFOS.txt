@@ -1,0 +1,3 @@
+Pour information, le programme a été developpé a l'aveugle, sans etre testé. 
+Il risque donc surement de comporter des dizaines de bugs... 
+Désolé.
